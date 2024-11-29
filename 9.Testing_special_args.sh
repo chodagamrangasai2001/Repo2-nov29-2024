@@ -14,3 +14,4 @@ else
     echo "No Region arg provided"
     echo $REGIONS
 fi
+#Manikanta atiili
